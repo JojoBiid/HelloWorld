@@ -1,3 +1,3 @@
 # HelloWorld & Activity 生命周期
-# ![HelloWorld]()
+# ![HelloWorld截图](https://github.com/JojoBiid/HelloWorld/blob/master/pic/HelloWorld.jpg)
 # ![生命周期](https://github.com/JojoBiid/HelloWorld/blob/master/pic/Activity.jpg)
