@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#090909">
+
+    <Button
+        android:id="@+id/btn_1"
+        android:layout_width="233dp"
+        android:layout_height="104dp"
+        android:text="One,One"
+        />
+
+    <Button
+        android:id="@+id/btn_2"
+        android:layout_width="270dp"
+        android:layout_height="103dp"
+        android:text="One,Two" />
+    <Button
+        android:id="@+id/btn_3"
+        android:layout_width="243dp"
+        android:layout_height="104dp"
+        android:text="One,Three" />
+    <Button
+        android:id="@+id/btn_4"
+        android:layout_width="233dp"
+        android:layout_height="104dp"
+        android:text="One,Four" />
+
+</LinearLayout>
+
